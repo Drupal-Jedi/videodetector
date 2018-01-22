@@ -1,0 +1,7 @@
+{
+  "name": "Drupal-Jedi/videodetector",
+  "description": "Fork with composer.json from https://github.com/dimitriconejo/videodetector",
+  "type": "drupal-library",
+  "homepage": "https://github.com/Drupal-Jedi/videodetector",
+  "license": "MIT"
+}
